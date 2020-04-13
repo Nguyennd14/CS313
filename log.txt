@@ -1,0 +1,19 @@
+4521
+17
+age numeric
+job nominal
+marital nominal
+education nominal
+default nominal
+balance numeric
+housing nominal
+loan nominal
+contact nominal
+day numeric
+month nominal
+duration numeric
+campaign numeric
+pdays numeric
+previous numeric
+poutcome nominal
+y nominal
